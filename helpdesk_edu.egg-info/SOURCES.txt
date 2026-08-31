@@ -1,0 +1,9 @@
+pyproject.toml
+app/models/entities.py
+app/models/enums.py
+app/services/tickets.py
+helpdesk_edu.egg-info/PKG-INFO
+helpdesk_edu.egg-info/SOURCES.txt
+helpdesk_edu.egg-info/dependency_links.txt
+helpdesk_edu.egg-info/top_level.txt
+tests/test_week09_queries.py
